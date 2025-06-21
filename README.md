@@ -25,4 +25,4 @@ Go to **Settings → Get More Credits → Restore** (top right).
 ---
 
 ## 🔐 Privacy & Data
-See our [Privacy Policy](https://your-privacy-url.com) for details on how we protect your data.
+See our [Privacy Policy]([https://your-privacy-url.com](https://github.com/knizas/fluencai-support/blob/main/privacy-policy.md)) for details on how we protect your data.
