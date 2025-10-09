@@ -1,5 +1,5 @@
 # Fluencai – Privacy Policy
-**Effective Date:** June 21, 2025  
+**Effective Date:** October 9, 2025  
 
 Fluencai respects your privacy and is committed to protecting your information.
 
